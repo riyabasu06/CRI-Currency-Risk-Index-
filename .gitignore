@@ -5,8 +5,5 @@ __pycache__/
 # Ignore virtual environment
 venv/
 
-# Ignore data files
-data/
-
 # Ignore IDE configurations
 .vscode/
